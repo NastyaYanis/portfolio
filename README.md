@@ -7,4 +7,5 @@
 - **Образование**: высшее инженерное как основное 
 - **Интересы**: путешествия, философия, архитекрура, космос и тд
 
-https://avatars.mds.yandex.net/i?id=06d96f6492d787c3091fa19cbb044017_l-10555888-images-thumbs&n=13
+![Моя картинка][(https://avatars.mds.yandex.net/i?id=06d96f6492d787c3091fa19cbb044017_l-10555888-images-thumbs&n=13)](https://raw.githubusercontent.com/NastyaYanis/portfolio/refs/heads/main/images/6a2b2c6126ff5480fd2116ac2abad6b6.jpg)
+
